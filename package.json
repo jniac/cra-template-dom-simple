@@ -1,0 +1,20 @@
+{
+  "name": "@my-username/cra-template-dom-simple",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jniac/cra-template-dom-simple.git"
+  },
+  "version": "1.0.0",
+  "description": "A template for CRA. Quite the same as the default one. But simplier (no test configuration).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joseph Merdrignac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jniac/cra-template-dom-simple/issues"
+  },
+  "homepage": "https://github.com/jniac/cra-template-dom-simple#readme"
+}
