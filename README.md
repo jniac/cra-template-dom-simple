@@ -1,4 +1,10 @@
 # cra-template-dom-simple
+
+## Usage
+```
+npx create-react-app my-app --template @jniac/cra-template-dom-simple
+```
+
 ## Why/Pourquoi?
 Almost the same as the original [CRA template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template), but without test configuration, so why? Simplier template, only 2 js files. 
 
